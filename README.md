@@ -14,3 +14,7 @@ javaScript/HTML
 4) Click start game to begin the movement of the PacMen
 5) Optionally, you can add additional PacMen while the game is in progress by selected the Add PacMan button again
 
+# Roadmap
+In the future I would like to modify this code to: 
+1) Update the images to reflect the correct orientation when moving from right to left
+2) Update the code to programatically alternate the images so that they appear to be "chomping" as they move
